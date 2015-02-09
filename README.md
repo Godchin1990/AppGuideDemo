@@ -2,7 +2,7 @@
 
 最后实现的效果是这样的:
 
-![预览图]()
+![预览图](http://7te8st.com1.z0.glb.clouddn.com/appguideAppGuideDemo121.gif)
 
 ###主要思路:
 1.创建GuideViewPagerAdapter.java 继承自PagerAdapter
