@@ -1,7 +1,5 @@
-title: android中利用viewpager实现应用引导界面
-date: 2015-02-07 09:30:14
-tags: [技术,android]
----
+##android中利用viewpager实现应用引导界面
+
 最后实现的效果是这样的:
 
 ![预览图]()
